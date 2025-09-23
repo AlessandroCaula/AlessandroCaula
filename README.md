@@ -8,7 +8,8 @@
 
 ## About me
 
-I’m a Software Developer and Bioinformatician passionate about building efficient, user-focused applications for both scientific and full-stack projects.    
+I’m a Software Developer and Bioinformatician passionate about building efficient, user-focused applications for both scientific and full-stack projects.
+
 Committed to constant learning, I enjoy creating useful tools, exploring what fascinates me, and following my curiosity.
 
 ---
