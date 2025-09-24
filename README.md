@@ -42,7 +42,7 @@ Committed to continuous learning, I love creating useful tools, exploring what f
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" height="40" /> &nbsp;
     <img src="https://api.iconify.design/logos/seaborn-icon.svg" width="40" height="40" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="40" height="40" /> &nbsp;
-    <img src="https://api.iconify.design/simple-icons/devexpress.svg" width="40" height="40" /> &nbsp;
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDFJHtUM07mHhaSUiyZ8SyfB8buynV9susDA&s" width="40" height="40" /> &nbsp;
     <img src="https://api.iconify.design/simple-icons/gsap.svg" width="40" height="40" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="40" height="40" /> &nbsp;
