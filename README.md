@@ -69,10 +69,10 @@ Committed to continuous learning, I love creating useful tools, exploring what f
 
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=alessandrocaula" height="165"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrocaula&hide=Jupyter%20Notebook&layout=compact" height="165"/>
     <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=alessandrocaula" height="165"/> -->
     <img src="https://streak-stats.demolab.com/?user=alessandrocaula" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=alessandrocaula" height="165"/>
 </div>
 
 ---
