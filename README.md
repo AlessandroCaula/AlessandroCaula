@@ -37,6 +37,7 @@ Committed to continuous learning, I love creating useful tools, exploring what f
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" /> &nbsp;
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW3DMfV4nePLVbZ6WwJ79U2Df5Z3wUSFr2Hg&s" width="40" height="40" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="40" height="40" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" height="40" /> &nbsp;
