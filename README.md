@@ -14,11 +14,11 @@ Committed to continuous learning, I love creating useful tools, exploring what f
 
 ---
 
-## 🎯 Current Focus
+<!-- ## 🎯 Current Focus
 
 - Expanding skills in **Full Stack Web Development** with JavaScript, TypeScript, React, and Node.js
 
----
+--- -->
 
 ## 🛠️ Languages and tools
 
