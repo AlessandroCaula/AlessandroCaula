@@ -84,3 +84,5 @@ Committed to continuous learning, I love creating useful tools, exploring what f
 - __LinkedIn__: <a href="https://www.linkedin.com/in/alessandro-caula-25a20418a/"><img src="https://api.iconify.design/logos/linkedin-icon.svg" width="15" height="15"> Alessandro Caula</a>
 
 - __Email__: <a href="mailto:alecaula96@gmail.com"><img src="https://api.iconify.design/material-icon-theme/email.svg" width="15" height="15"> alecaula96@gmail.com</a>
+
+- <a href="https://alessandrocaula.netlify.app/"><img src="https://api.iconify.design/twemoji/koala.svg" width="15" height="15"> Personal Website</a>
