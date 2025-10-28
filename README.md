@@ -4,6 +4,20 @@
 
 <h3 align="center">👨‍💻 Software Developer and Bioinformatician 🧬</h3>
 
+<br />
+
+<div align="center" style="gap: 10px;">
+    <a href="mailto:alecaula96@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://www.linkedin.com/in/alessandro-caula-25a20418a/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://alessandrocaula.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Website-Alessandro%20Caula-darkgreen?logo=google-chrome&logoColor=white)" alt="Website">
+    </a>
+</div>
+
 ---
 
 ## About me
@@ -68,7 +82,6 @@ Committed to continuous learning, I love creating useful tools, exploring what f
 
 </div> -->
 
-
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrocaula&hide=Jupyter%20Notebook&layout=compact" height="165"/>
     <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=alessandrocaula" height="165"/> -->
@@ -80,6 +93,6 @@ Committed to continuous learning, I love creating useful tools, exploring what f
 
 ## 📬 Connect & Contact
 
-- __LinkedIn__: <a href="https://www.linkedin.com/in/alessandro-caula-25a20418a/"><img src="https://api.iconify.design/logos/linkedin-icon.svg" width="15" height="15"> Alessandro Caula</a>
+- **LinkedIn**: <a href="https://www.linkedin.com/in/alessandro-caula-25a20418a/"><img src="https://api.iconify.design/logos/linkedin-icon.svg" width="15" height="15"> Alessandro Caula</a>
 
-- __Email__: <a href="mailto:alecaula96@gmail.com"><img src="https://api.iconify.design/material-icon-theme/email.svg" width="15" height="15"> alecaula96@gmail.com</a>
+- **Email**: <a href="mailto:alecaula96@gmail.com"><img src="https://api.iconify.design/material-icon-theme/email.svg" width="15" height="15"> alecaula96@gmail.com</a>
