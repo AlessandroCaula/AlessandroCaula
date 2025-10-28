@@ -20,7 +20,7 @@
 
 ---
 
-## About me
+## 🐨 About me
 
 I’m a Software Developer and Bioinformatician passionate about building efficient, user-focused applications for both scientific and full stack projects.
 
@@ -45,9 +45,10 @@ Committed to continuous learning, I love creating useful tools, exploring what f
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" width="40" height="40" /> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" /> &nbsp;
+    <img src="https://api.iconify.design/logos/dotnet.svg" width="40" height="40" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /> &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" /> &nbsp;
@@ -83,10 +84,10 @@ Committed to continuous learning, I love creating useful tools, exploring what f
 </div> -->
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrocaula&hide=Jupyter%20Notebook&layout=compact" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrocaula&hide=Jupyter%20Notebook&layout=compact" height="150"/>
     <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=alessandrocaula" height="165"/> -->
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=alessandrocaula" height="165"/> -->
-    <img src="https://streak-stats.demolab.com/?user=alessandrocaula" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=alessandrocaula" height="150"/>
+    <img src="https://streak-stats.demolab.com/?user=alessandrocaula" height="150"/>
 </div>
 
 ---
@@ -95,4 +96,10 @@ Committed to continuous learning, I love creating useful tools, exploring what f
 
 - **LinkedIn**: <a href="https://www.linkedin.com/in/alessandro-caula-25a20418a/"><img src="https://api.iconify.design/logos/linkedin-icon.svg" width="15" height="15"> Alessandro Caula</a>
 
+<<<<<<< HEAD
 - **Email**: <a href="mailto:alecaula96@gmail.com"><img src="https://api.iconify.design/material-icon-theme/email.svg" width="15" height="15"> alecaula96@gmail.com</a>
+=======
+- __Email__: <a href="mailto:alecaula96@gmail.com"><img src="https://api.iconify.design/material-icon-theme/email.svg" width="15" height="15"> alecaula96@gmail.com</a>
+
+- <a href="https://alessandrocaula.netlify.app/"><img src="https://api.iconify.design/twemoji/koala.svg" width="15" height="15"> Personal Website</a>
+>>>>>>> ef693cee8cd207fcfee59950232c2df909607662
