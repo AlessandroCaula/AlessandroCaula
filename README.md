@@ -6,7 +6,7 @@
 
 <br />
 
-<div align="center" style="gap: 10px;">
+<div align="center">
     <a href="mailto:alecaula96@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail&logoColor=white" alt="Gmail">
     </a>
@@ -68,7 +68,8 @@ Committed to continuous learning, I love creating useful tools, exploring what f
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> &nbsp;
     <img src="https://api.iconify.design/skill-icons/aws-light.svg" width="40" height="40" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" /> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" /> &nbsp;
+    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" /> &nbsp; -->
+    <img src="https://api.iconify.design/simple-icons/curl.svg" width="40" height="40" /> &nbsp;
 </div>
 
 ---
