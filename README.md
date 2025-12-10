@@ -74,25 +74,6 @@ Committed to continuous learning, I love creating useful tools, exploring what f
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- <div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrocaula&hide=Jupyter%20Notebook&layout=compact)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alessandrocaula)](https://git.io/streak-stats)
-
-</div> -->
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrocaula&hide=Jupyter%20Notebook&layout=compact" height="150"/>
-    <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=alessandrocaula" height="165"/> -->
-    <img src="https://github-readme-stats.vercel.app/api?username=alessandrocaula" height="150"/>
-    <img src="https://streak-stats.demolab.com/?user=alessandrocaula" height="150"/>
-</div>
-
----
-
 ## 📬 Connect & Contact
 
 - **LinkedIn**: <a href="https://www.linkedin.com/in/alessandro-caula-25a20418a/"><img src="https://api.iconify.design/logos/linkedin-icon.svg" width="15" height="15"> Alessandro Caula</a>
