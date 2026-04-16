@@ -28,15 +28,17 @@ Committed to continuous learning, I love creating useful tools, exploring what f
 
 ---
 
-<!-- ## 🎯 Current Focus
-
-- Expanding skills in **Full Stack Web Development** with JavaScript, TypeScript, React, and Node.js
-
---- -->
-
 ## 🛠️ Languages and tools
 
-<div>
+<!-- [![My Skills](https://skillicons.dev/icons?i=cs,python,js,ts,html,css,bash,r,dotnet,react,nodejs,express,tailwind,git,anaconda,docker,vscode,aws,mongodb,windows,apple,linux&perline=11&theme=light)](https://skillicons.dev) -->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,python,js,ts,html,css,bash,r,dotnet,react,nodejs,express,tailwind,git,anaconda,docker,vscode,aws,mongodb,windows,apple,linux&perline=11&theme=light" />
+  </a>
+</p>
+
+<!-- <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> &nbsp;
@@ -68,9 +70,8 @@ Committed to continuous learning, I love creating useful tools, exploring what f
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> &nbsp;
     <img src="https://api.iconify.design/skill-icons/aws-light.svg" width="40" height="40" /> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" /> &nbsp;
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" /> &nbsp; -->
     <img src="https://api.iconify.design/simple-icons/curl.svg" width="40" height="40" /> &nbsp;
-</div>
+</div> -->
 
 ---
 
