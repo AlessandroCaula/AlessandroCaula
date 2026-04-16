@@ -34,7 +34,7 @@ Committed to continuous learning, I love creating useful tools, exploring what f
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,python,js,ts,html,css,bash,r,dotnet,react,nodejs,express,tailwind,git,anaconda,docker,vscode,aws,mongodb,windows,apple,linux&perline=11&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cs,bash,r,dotnet,react,nodejs,express,tailwind,git,anaconda,docker,vscode,aws,mongodb,windows,apple,linux&perline=11&theme=light" />
   </a>
 </p>
 
