@@ -77,8 +77,11 @@ Committed to continuous learning, I love creating useful tools, exploring what f
 
 ## 📬 Connect & Contact
 
-- **LinkedIn**: <a href="https://www.linkedin.com/in/alessandro-caula-25a20418a/"><img src="https://api.iconify.design/logos/linkedin-icon.svg" width="15" height="15"> Alessandro Caula</a>
+<!-- - **LinkedIn**: <a href="https://www.linkedin.com/in/alessandro-caula-25a20418a/"><img src="https://api.iconify.design/logos/linkedin-icon.svg" width="15" height="15"> Alessandro Caula</a> -->
+- **LinkedIn**: <a href="https://www.linkedin.com/in/alessandro-caula-25a20418a/">Alessandro Caula</a>
 
-- **Email**: <a href="mailto:alecaula96@gmail.com"><img src="https://api.iconify.design/material-icon-theme/email.svg" width="15" height="15"> alecaula96@gmail.com</a>
+<!-- - **Email**: <a href="mailto:alecaula96@gmail.com"><img src="https://api.iconify.design/material-icon-theme/email.svg" width="15" height="15"> alecaula96@gmail.com</a> -->
+- **Email**: <a href="mailto:alecaula96@gmail.com">alecaula96@gmail.com</a>
 
-- <a href="https://alessandrocaula.netlify.app/"><img src="https://api.iconify.design/twemoji/koala.svg" width="15" height="15"> Personal Website</a>
+<!-- - <a href="https://alessandrocaula.netlify.app/"><img src="https://api.iconify.design/twemoji/koala.svg" width="15" height="15"> Personal Website</a> -->
+- <a href="https://alessandrocaula.netlify.app/">Personal Website</a>
